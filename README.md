@@ -40,3 +40,9 @@ else:
    print("odd")
 ```
 
+s.no|name|mobileno.
+----|----|--------
+1|hima|1234567877
+2|suma|7654796754
+
+:roll_eyes:
